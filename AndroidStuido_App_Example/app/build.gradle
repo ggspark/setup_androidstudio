@@ -17,6 +17,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+
 }
 
 dependencies {
@@ -35,4 +36,5 @@ dependencies {
     compile 'com.squareup.retrofit:retrofit:1.8.0'
     //Utility file dependencies
     compile 'commons-codec:commons-codec:1.9'
+
 }

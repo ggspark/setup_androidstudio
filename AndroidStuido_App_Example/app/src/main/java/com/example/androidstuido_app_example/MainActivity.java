@@ -7,7 +7,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.example.androidstuido_app_example.utils.Constant;
-import com.example.androidstuido_app_example.utils.EmailGmail;
 
 
 public class MainActivity extends ActionBarActivity {
